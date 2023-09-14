@@ -19,7 +19,7 @@
 <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
 
 <h2 class="markdown-body">🌐 Socials:</h2>
-Telegram: <a href="https://t.me/@Polzovatel_5">@PAPRIKA_1994</p>
+Telegram: <a href="https://t.me/@Polzovatel_5">@Polzovatel_5</p>
 
 
 
