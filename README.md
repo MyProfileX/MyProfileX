@@ -1,11 +1,19 @@
 
 
 <h1 class="markdown-body">🌵 Gleb Khorunzhiy 🌵</h1>
-<strong><code>Laravel</code></strong> <strong><code>MySQL</code></strong> <strong><code>PHP</code></strong>
+<strong><code>Backend Developing (Laravel | PHP | MySQL)</code></strong> 
 
+<details>
+ <summary><h2 dir="auto"><a class="anchor" aria-hidden="true" tabindex="-1" "></a>🕵 About me</h2></summary>
+<p>My coding journey started when I was in school. I didn't have a laptop yet, but I had a great interest in programming. So, I began using my smartphone to write and run simple Python programs like a calculator and a rock-paper-scissors game. Now, I'm in my fourth year of college, majoring in web development. I have gained a lot of experience in designing websites using HTML/CSS/JS and other related technologies.</p>
+  
+<p>In August 2023, I believe I found my true calling as a backend developer. I find it highly interesting and fulfilling to work with Laravel APIs, troubleshoot issues, and learn about application architectures. Currently, I am actively seeking commercial experience in development. I am eager to learn and become a valuable developer.</p>
+
+</details>
 
 <h2 class="markdown-body">🌐 Contact me:</h2>
 Telegram: <a href="https://t.me/@Polzovatel_5" >@Polzovatel_5</p>
+
 
 <h2 class="markdown-body">👾 Tech Stack:</h2>
 <h2>Backend:</h2>
