@@ -1,4 +1,4 @@
-<h1 class="markdown-body">👽 Egor Khorunzhiy 🌠</h1>
+<h1 class="markdown-body"> Gleb Khorunzhiy </h1>
 <strong><code>Backend Developer | Laravel</code></strong><br><br>
 <p>Highly motivated and skilled Web Developer with 3+ years of experience.</p>
 <ul>
@@ -8,7 +8,10 @@
 </ul>
 
 <p>Currently working on my Laravel Backend project. You are welcome to check this and others in my repo.</p>
-<h2 class="markdown-body">🌌 Socials:</h2>
+<h2 class="markdown-body">🌌
+  <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://cdn.iconscout.com/icon/free/png-512/free-laravel-226015.png?f=avif&w=256)" />
+  
+  Socials:</h2>
 Telegram: <a href="https://t.me/@PAPRIKA_1994">@PAPRIKA_1994</p>
 <h2 class="markdown-body">💻 Tech Stack:</h2>
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
