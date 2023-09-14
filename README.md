@@ -2,7 +2,7 @@
 <strong><code>Backend Developer | Laravel</code></strong><br><br>
 
 
-# 💻 Tech Stack:
+<h2 class="markdown-body">💻 Tech Stack:</h2>
 <h2>Backend:</h2>
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
@@ -19,9 +19,9 @@
 <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
 <h2 class="markdown-body">📊 Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Victor&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MyProfileX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<h2 class="markdown-body">🌐 Socials:</h2>
+<h2 class="markdown-body">🌐 Contact me:</h2>
 Telegram: <a href="https://t.me/@Polzovatel_5">@Polzovatel_5</p>
 
 
