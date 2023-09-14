@@ -5,10 +5,16 @@
 
 <details>
  <summary><h2 dir="auto"><a class="anchor" aria-hidden="true" tabindex="-1" "></a>🕵 About me</h2></summary>
-<p>My coding journey started when I was in school. I didn't have a laptop yet, but I had a great interest in programming. So, I began using my smartphone to write and run simple Python programs like a calculator and a rock-paper-scissors game. Now, I'm in my fourth year of college, majoring in web development. I have gained a lot of experience in designing websites using HTML/CSS/JS and other related technologies.</p>
-  
-<p>In August 2023, I believe I found my true calling as a backend developer. I find it highly interesting and fulfilling to work with Laravel APIs, troubleshoot issues, and learn about application architectures. Currently, I am actively seeking commercial experience in development. I am eager to learn and become a valuable developer.</p>
-
+<p>I started programming when I was still a schoolboy. 
+From an early age I was interested in information technologies and I was always looking for ways to get what I was interested in. 
+At first I consumed related content, then I started to have opportunities to realize my potential. 
+So, at a more mature age, I took extra computer science classes, then went to college.
+Today, I'm an aspiring goal-oriented web developer with experience in building websites.
+ 
+As of July 2023, in addition to front-end, I started to seriously study backend development.
+Studied a few courses on Laravel, and now I have an unfinished project in the works, which you can check out in my repos.
+I'm currently in my fourth year of college studying web development and am actively seeking commercial experience.
+I always strive for self-improvement, so I am ready to learn new technologies and development methods.</p>
 </details>
 
 <h2 class="markdown-body">🌐 Contact me:</h2>
