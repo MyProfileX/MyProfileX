@@ -4,8 +4,8 @@
 <strong><code>Laravel</code></strong> <strong><code>MySQL</code></strong> <strong><code>PHP</code></strong>
 
 
-<h2 class="markdown-body">🌐 Contact me:</h2>
-Telegram: <a href="https://t.me/@Polzovatel_5" style="color:red">@Polzovatel_5</p>
+<h2 class="markdown-body" style="color:red">🌐 Contact me:</h2>
+Telegram: <a href="https://t.me/@Polzovatel_5" >@Polzovatel_5</p>
 
 <h2 class="markdown-body">👾 Tech Stack:</h2>
 <h2>Backend:</h2>
