@@ -1,11 +1,13 @@
-<h1 class="markdown-body"> Gleb Khorunzhiy </h1>
+
+
+<h1 class="markdown-body">🌵 Gleb Khorunzhiy 🌵</h1>
 <strong><code>Laravel</code></strong> <strong><code>MySQL</code></strong> <strong><code>PHP</code></strong>
 
 
 <h2 class="markdown-body">🌐 Contact me:</h2>
-Telegram: <a href="https://t.me/@Polzovatel_5">@Polzovatel_5</p>
+Telegram: <a href="https://t.me/@Polzovatel_5" style="color: red;">@Polzovatel_5</p>
 
-<h2 class="markdown-body">💻 Tech Stack:</h2>
+<h2 class="markdown-body">👾 Tech Stack:</h2>
 <h2>Backend:</h2>
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
@@ -23,7 +25,9 @@ Telegram: <a href="https://t.me/@Polzovatel_5">@Polzovatel_5</p>
 
 <h2 class="markdown-body">📊 Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=MyProfileX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=MyProfileX&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 
 
 
