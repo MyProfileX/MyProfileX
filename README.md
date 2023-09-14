@@ -9,7 +9,6 @@
 
 <p>Currently working on my Laravel Backend project. You are welcome to check this and others in my repo.</p>
 <h2 class="markdown-body">🌌
-  <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://cdn.iconscout.com/icon/free/png-512/free-laravel-226015.png?f=avif&w=256)" />
   
   Socials:</h2>
 Telegram: <a href="https://t.me/@PAPRIKA_1994">@PAPRIKA_1994</p>
