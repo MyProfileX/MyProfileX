@@ -4,9 +4,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 	
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -62,7 +60,7 @@ Telegram: <a href="https://t.me/@PAPRIKA_1994">@PAPRIKA_1994</p>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   
 <h2 class="markdown-body">📊 Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=PossibleModern&show_icons=true&theme=great-gatsby">
+<img src="https://github-readme-stats.vercel.app/api?username=MyProfileX&show_icons=true&theme=great-gatsby">
 
 <details>
  <summary><h4 dir="auto"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-egor-about"></a>🖖🏻 More about me</h4></summary>
