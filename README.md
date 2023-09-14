@@ -1,6 +1,9 @@
 <h1 class="markdown-body"> Gleb Khorunzhiy </h1>
-<strong><code>Backend Developer | Laravel</code></strong><br><br>
+<strong><code>Laravel</code></strong> <strong><code>MySQL</code></strong> <strong><code>PHP</code></strong>
 
+
+<h2 class="markdown-body">🌐 Contact me:</h2>
+Telegram: <a href="https://t.me/@Polzovatel_5">@Polzovatel_5</p>
 
 <h2 class="markdown-body">💻 Tech Stack:</h2>
 <h2>Backend:</h2>
@@ -17,28 +20,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
+
 <h2 class="markdown-body">📊 Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=MyProfileX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<h2 class="markdown-body">🌐 Contact me:</h2>
-Telegram: <a href="https://t.me/@Polzovatel_5">@Polzovatel_5</p>
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-<h1 class="markdown-body"> Gleb Khorunzhiy </h1>
+<h1 class="markdown-body">👽 Egor Khorunzhiy 🌠</h1>
 <strong><code>Backend Developer | Laravel</code></strong><br><br>
 <p>Highly motivated and skilled Web Developer with 3+ years of experience.</p>
 <ul>
@@ -48,7 +41,7 @@ Telegram: <a href="https://t.me/@Polzovatel_5">@Polzovatel_5</p>
 </ul>
 
 <p>Currently working on my Laravel Backend project. You are welcome to check this and others in my repo.</p>
-<h2 class="markdown-body">🌐 Socials:</h2>
+<h2 class="markdown-body">🌌 Socials:</h2>
 Telegram: <a href="https://t.me/@PAPRIKA_1994">@PAPRIKA_1994</p>
 <h2 class="markdown-body">💻 Tech Stack:</h2>
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
@@ -63,7 +56,7 @@ Telegram: <a href="https://t.me/@PAPRIKA_1994">@PAPRIKA_1994</p>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   
 <h2 class="markdown-body">📊 Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=MyProfileX&show_icons=true&theme=great-gatsby">
+<img src="https://github-readme-stats.vercel.app/api?username=PossibleModern&show_icons=true&theme=great-gatsby">
 
 <details>
  <summary><h4 dir="auto"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-egor-about"></a>🖖🏻 More about me</h4></summary>
@@ -74,3 +67,9 @@ Telegram: <a href="https://t.me/@PAPRIKA_1994">@PAPRIKA_1994</p>
 🎸 Guitar [Fingerstyle technique] <br>
 🌏 Learning languages [Japaese, Chinese] <br>
 </details>
+
+
+
+
+
+
