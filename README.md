@@ -27,11 +27,11 @@ I'm currently in my fourth year of college studying web development and am activ
 I always strive for self-improvement, so I am ready to learn new technologies and development methods.</p>
 </details>
 
-<h2 class="markdown-body">🌐 Contact me:</h2>
+<h2 class="markdown-body">💬 Contact me:</h2>
 Telegram: <a href="https://t.me/@Polzovatel_5" >@Polzovatel_5</p>
 
 
-<h2 class="markdown-body">👾 Tech Stack:</h2>
+<h2 class="markdown-body">💻 Tech Stack:</h2>
 <h2>Backend:</h2>
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
