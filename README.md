@@ -1,7 +1,14 @@
 
 
 <h1 class="markdown-body">🌵 Gleb Khorunzhiy 🌵</h1>
-<strong><code>Backend Developing (Laravel | PHP | MySQL)</code></strong> 
+
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+<h4><strong><code>Backend Developing (Laravel | PHP | MySQL)</code></strong></h4>
 
 <details>
  <summary><h2 dir="auto"><a class="anchor" aria-hidden="true" tabindex="-1" "></a>🕵 About me</h2></summary>
