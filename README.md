@@ -10,6 +10,7 @@ Proficient specialist looking to grow in backend development.
  <li>good analitical reasoning</li>
  <li>problem solving skills</li>
 </ul>
+Working on my own Laravel project, check my repos.
 
 
 <details>
