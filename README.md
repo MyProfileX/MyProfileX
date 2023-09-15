@@ -2,13 +2,15 @@
 
 <h1 class="markdown-body">🌵 Gleb Khorunzhiy 🌵</h1>
 
+<h4><code>Backend Developing (Laravel | PHP | MySQL)</code></h4>
+
+Proficient specialist looking to grow in backend development.
 <ul>
- <li></li>
- <li></li>
- <li></li>
+ <li>3+ years experience</li>
+ <li>good analitical reasoning</li>
+ <li>problem solving skills</li>
 </ul>
 
-<h4><strong><code>Backend Developing (Laravel | PHP | MySQL)</code></strong></h4>
 
 <details>
  <summary><h2 dir="auto"><a class="anchor" aria-hidden="true" tabindex="-1" "></a>🕵 About me</h2></summary>
